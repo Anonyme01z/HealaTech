@@ -1,0 +1,8 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "HealaURl": "https://doctor-direct-api-v2.vercel.app/628a8ae8f37f9300130e6650",
+  "Url": "https://doctor-direct-api-v2.vercel.app",
+  "Cypress_MailSlurp_ApiKey": "3f5ecb0e94fcb3284469cc4b6974f4d3ad9fb70952a27205134090ea77fb3e9a"
+}

@@ -1,0 +1,3 @@
+npm install --save-dev mochawesome-merge mochawesome-report-generator
+npx mochawesome-merge cypress/reports/*.json > cypress/reports/merged-report.json
+npx marge cypress/reports/merged-report.json
